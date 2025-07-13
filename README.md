@@ -1,2 +1,3 @@
 # Flashing-Designer
-Roof Flashing App
+
+Flashing Designer is a lightweight tool for creating, managing, and exporting custom metal flashing orders. Choose your material—Aluminium, Galvanised steel, Stainless steel, or Colorbond®—specify thickness, select from the full Colorbond® palette (when applicable), and enter one or more length–count pairs. Store multiple orders with optional customer details, revisit them for edits, and export clean, print-ready PDF layouts that include all your specifications. Perfect for contractors, fabricators, and DIY-enthusiasts who need a fast, hassle-free way to generate accurate flashing layouts on the go.
