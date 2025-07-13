@@ -26,4 +26,33 @@ A lightweight tool for creating, managing, and exporting custom metal flashing o
 </p>
 
 ## Installation
-Download From Release.
+Installation
+Grab the latest packages from the Releases page: https://github.com/matthewbrand9898/Flashing-Designer/releases/tag/Release
+
+Windows
+Download FlashingDesigner-windows.x64.zip
+
+Extract the ZIP (right-click → Extract All… or your preferred tool)
+
+Open the resulting Flashing Designer folder
+
+Double-click flashing_designer.exe to launch
+
+(Optional) Create a desktop shortcut: right-click flashing_designer.exe → Create shortcut
+
+All app data is stored locally in JSON file called orders.json in documents directory.
+
+Android
+Download FlashingDesigner-android.apk to your device
+
+Enable installs from unknown sources:
+
+Settings → Security → Install unknown apps (or Apps & notifications → Special app access → Install unknown apps)
+
+Allow your browser or file manager to install APKs
+
+Open your file manager, tap flashing_designer.apk, and choose Install
+
+Once installed, tap Open or find Flashing Designer in your app launcher
+
+Android will scan the APK for security—please allow it to complete.
