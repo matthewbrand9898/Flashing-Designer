@@ -1,6 +1,9 @@
 # Flashing Designer
 
 
+
+##  Currently Supports Windows and Android
+
 A lightweight tool for creating, managing, and exporting custom metal flashing orders.
 
 ## Features
