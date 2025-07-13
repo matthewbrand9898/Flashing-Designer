@@ -26,3 +26,4 @@ A lightweight tool for creating, managing, and exporting custom metal flashing o
 </p>
 
 ## Installation
+Download From Release.
