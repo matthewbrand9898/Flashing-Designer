@@ -26,7 +26,7 @@ A lightweight tool for creating, managing, and exporting custom metal flashing o
 </p>
 
 ## Installation
-Installation
+
 Grab the latest packages from the Releases page: https://github.com/matthewbrand9898/Flashing-Designer/releases/tag/Release
 
 Windows
