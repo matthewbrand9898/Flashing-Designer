@@ -16,8 +16,8 @@ A lightweight tool for creating, managing, and exporting custom metal flashing o
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshot1.png" alt="Order List" width="300" />
-  <img src="docs/screenshot2.png" alt="Add Flashing Dialog" width="300" />
+  <img src="docs/Screenshot_20250713_163801.jpg" alt="Order List" width="300" />
+  <img src="docs/Screenshot_20250713_172518.jpg" alt="Add Flashing Dialog" width="300" />
 </p>
 
 ## Installation
