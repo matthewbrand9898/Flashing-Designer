@@ -2,7 +2,9 @@
 
 
 
-##  Currently Supports Windows and Android
+##  Currently Supports Windows, Android and Web.
+
+https://flashing-designer.com/
 
 A lightweight tool for creating, managing, and exporting custom metal flashing orders.
 
