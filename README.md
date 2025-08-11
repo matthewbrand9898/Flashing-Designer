@@ -20,19 +20,19 @@ A lightweight tool for creating, managing, and exporting custom metal flashing o
 ## Screenshots
 
 <p align="center">  
-  <img src="Images/step1.webp" alt="Add Flashing Dialog" width="300" />
-  <img src="Images/step2.webp" alt="Add Flashing Dialog" width="300" />
-  <img src="Images/step3.webp" alt="Add Flashing Dialog" width="300" />
-  <img src="Images/step4.webp" alt="Order List" width="300" />
-  <img src="Images/step5.webp" alt="Add Flashing Dialog" width="300" />
-  <img src="Images/step6.webp" alt="Add Flashing Dialog" width="300" />
-  <img src="Images/step7.webp" alt="Add Flashing Dialog" width="300" />
-  <img src="Images/step8.webp" alt="Add Flashing Dialog" width="300" />
-    <img src="Images/step9.webp" alt="Add Flashing Dialog" width="300" />
-    <img src="Images/step11.webp" alt="Add Flashing Dialog" width="300" />
-    <img src="Images/step12.webp" alt="Add Flashing Dialog" width="300" />
-    <img src="Images/step13.webp" alt="Add Flashing Dialog" width="300" />
-    <img src="Images/step14.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step1.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step2.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step3.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step4.webp" alt="Order List" width="300" />
+  <img src="Images/Step5.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step6.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step7.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step8.webp" alt="Add Flashing Dialog" width="300" />
+    <img src="Images/Step9.webp" alt="Add Flashing Dialog" width="300" />
+    <img src="Images/Step11.webp" alt="Add Flashing Dialog" width="300" />
+    <img src="Images/Step12.webp" alt="Add Flashing Dialog" width="300" />
+    <img src="Images/Step13.webp" alt="Add Flashing Dialog" width="300" />
+    <img src="Images/Step14.webp" alt="Add Flashing Dialog" width="300" />
 </p>
 
 ## Installation
