@@ -33,6 +33,7 @@ A lightweight tool for creating, managing, and exporting custom metal flashing o
     <img src="Images/Step12.webp" alt="Add Flashing Dialog" width="300" />
     <img src="Images/Step13.webp" alt="Add Flashing Dialog" width="300" />
     <img src="Images/Step14.webp" alt="Add Flashing Dialog" width="300" />
+  <img src="Images/Step15.jpg" alt="Add Flashing Dialog" width="300" />
 </p>
 
 ## Installation
