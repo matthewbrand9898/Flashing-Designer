@@ -5,6 +5,7 @@
 ##  Currently Supports Windows, Android and Web.
 
 https://flashing-designer.com/
+https://play.google.com/store/apps/details?id=com.matthewbrand.arsflashings&hl=en
 
 A lightweight tool for creating, managing, and exporting custom metal flashing orders.
 
