@@ -55,6 +55,7 @@ Double-click flashing_designer.exe to launch
 All app data is stored locally in JSON file called orders.json in documents directory.
 
 Android
+Avaliable on google play store.
 Download FlashingDesigner-android.apk to your device
 
 Enable installs from unknown sources:
